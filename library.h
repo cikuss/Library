@@ -2,7 +2,7 @@
 
 using namespace std;
 
-//dispaly title with a good looking dessign 
+//dispaly title with a good looking design  
 
 void Title(){
   cout<<endl<<endl;
